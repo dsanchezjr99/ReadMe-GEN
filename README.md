@@ -1,28 +1,28 @@
 # ReadMe-GEN
 
 
-Description
+#Description
 Users can quickly generate a readme
 
-Email
+#Email
 dsanchezjr99@gmail.com
 
-Installation
+#Installation
 clone this repo, then run npm install, then run node index
 
-Purpose
+#Purpose
 It is used to create a ReadME.md File
 
-Tests
+#Tests
 First make sure Node is Installed then run node index
 
-Contributors
+#Contributors
 You can contact me through Email
 
-Github
+#Github
 DSanchezJR99
 
-License
+#License
 MIT License
 
 
